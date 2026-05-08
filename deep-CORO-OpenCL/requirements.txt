@@ -1,0 +1,5 @@
+numpy>=1.21
+pandas>=1.3
+matplotlib>=3.5
+pyopencl>=2022.1; platform_system != "Emscripten"
+torch>=1.12; python_version >= "3.9"
